@@ -5,7 +5,7 @@ import { X, MapPin, Phone, Mail, Building2, Users, Award } from "lucide-react";
 const BRAND_DARK = "#1a2634";
 const FULL_TEXT = "Sixth River";
 const HOUSE_IMG =
-  "https://images.squarespace-cdn.com/content/v1/53d7e840e4b01774461cdd4e/1681392882617-JVSDSCRL3SKO9CDTJ9X5/2022.02.17_1300e+Exterior+View+1.jpg?format=2500w";
+  "https://res.cloudinary.com/dsdhxhhqh/image/upload/v1780471903/building_bzziky.png";
 const BG_IMG =
   "https://images.squarespace-cdn.com/content/v1/53d7e840e4b01774461cdd4e/1733263037482-CV9PJ8BGFU6OMXZMEE0J/1300E5thSt_Aerial-074.jpg?format=2500w";
 
